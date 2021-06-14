@@ -1,0 +1,14 @@
+{  
+    "Simulator Target Bundle": "com.krishna.PushNotificationService",
+    "aps": {
+	"category": "myNotificationCategory",
+        "alert": {
+	"title": "you get new notification!",
+	"body": 	 "you get new notification in simulator, its awesome experiences!"
+	},
+	"mutable-content":1,
+	"image_url": "https://images.unsplash.com/photo-1612151855475-877969f4a6cc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aGQlMjBpbWFnZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80", 
+ 	"sound": "default",
+        "badge": 1
+    }
+}
